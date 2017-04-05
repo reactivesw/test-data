@@ -48,7 +48,7 @@
             "value": "i7-6700HK"
         }]
     },
-    "variants": {
+    "variants": [{
         "sku": "i7-6700HK-960m",
         "key": "i7-6700HK-960m",
         "prices": [{
@@ -90,5 +90,5 @@
                 "value": "960m"
             }
         ]
-    }
+    }]
 }
