@@ -1,11 +1,6 @@
 package io.reactivesw.data
 
-import io.reactivesw.data.util.CategoryDataFactory
-import io.reactivesw.data.util.InventoryDataFactory
-import io.reactivesw.data.util.ProductDataFactory
-import io.reactivesw.data.util.ProductTypeDataFactory
-import io.reactivesw.data.util.RestClientFactory
-import io.reactivesw.data.util.UrlUtils
+import io.reactivesw.data.util.*
 
 /**
  * Created by Davis on 17/4/1.
@@ -24,9 +19,6 @@ class DataRunner {
         def pantsCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.pants)
         println("create pants category, id is: " + pantsCategory.id)
 
-        def deskTopCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.deskTop)
-        println("create desktop category, id is: " + deskTopCategory.id)
-
         def lapTopCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.lapTop)
         println("create laptop category, id is: " + lapTopCategory.id)
 
@@ -41,9 +33,6 @@ class DataRunner {
 
         def smartPhoneProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.smartPhone)
         println("create smartPhone product type, id is: " + smartPhoneProductType.id)
-
-        def computerProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.computer)
-        println("create computer product type, id is: " + computerProductType.id)
 
         def lapTopProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.lapTop)
         println("create lapTop product type, id is: " + lapTopProductType.id)
@@ -77,25 +66,6 @@ class DataRunner {
         iphone10['productType']['id'] = smartPhoneProductType.id
         def iphone10Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone10)
         println("create product, id is: " + iphone10Product.id)
-
-//        def msigt78 = ProductDataFactory.MSIGT78
-//        msigt78['categories'][0]['id'] = lapTopCategory.id
-//        msigt78['productType']['id'] = lapTopProductType.id
-//        def msigt78Product = RestClientFactory.post(UrlUtils.PRODUCTURL, msigt78)
-//        println("create product, id is: " + msigt78Product.id)
-//
-        def mechrevo = ProductDataFactory.MECHREVO
-        mechrevo['categories'][0]['id'] = deskTopCategory.id
-        mechrevo['productType']['id'] = computerProductType.id
-        def mechrevoProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, mechrevo)
-        println("create product, id is: " + mechrevoProduct.id)
-
-//        def levisJean = ProductDataFactory.levisJean
-//        levisJean['categories'][0]['id'] = pantsCategory.id
-//        levisJean['productType']['id'] = pantsProductType.id
-//        def levisJeanProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, levisJean)
-//        println("create product, id is: " + levisJeanProduct.id)
-
 
         println("-------------------- end create product -----------------------")
     }
