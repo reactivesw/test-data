@@ -12,62 +12,62 @@ class DataRunner {
     }
 
     private static void createCatalog() {
-        println("-------------------- create category -----------------------")
-        def clothesCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.clothes)
-        println("create clothe category, id is: " + clothesCategory.id)
+            println("-------------------- create category -----------------------")
+            def clothesCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.clothes)
+            println("create clothe category, id is: " + clothesCategory.id)
 
-        def pantsCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.pants)
-        println("create pants category, id is: " + pantsCategory.id)
+            def pantsCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.pants)
+            println("create pants category, id is: " + pantsCategory.id)
 
-        def lapTopCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.lapTop)
-        println("create laptop category, id is: " + lapTopCategory.id)
+            def lapTopCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.lapTop)
+            println("create laptop category, id is: " + lapTopCategory.id)
 
-        def smartPhoneCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.smartPhone)
-        println("create smart phone category, id is: " + smartPhoneCategory.id)
+            def smartPhoneCategory = RestClientFactory.post(UrlUtils.CATEGORYURL, CategoryDataFactory.smartPhone)
+            println("create smart phone category, id is: " + smartPhoneCategory.id)
 
-        println("-------------------- end create category --------------------")
+            println("-------------------- end create category --------------------")
 
-        println("-------------------- create product type -----------------------")
-        def clotheProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.clothes)
-        println("create clothes product type, id is: " + clotheProductType.id)
+            println("-------------------- create product type -----------------------")
+            def clotheProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.clothes)
+            println("create clothes product type, id is: " + clotheProductType.id)
 
-        def smartPhoneProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.smartPhone)
-        println("create smartPhone product type, id is: " + smartPhoneProductType.id)
+            def smartPhoneProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.smartPhone)
+            println("create smartPhone product type, id is: " + smartPhoneProductType.id)
 
-        def lapTopProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.lapTop)
-        println("create lapTop product type, id is: " + lapTopProductType.id)
+            def lapTopProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.lapTop)
+            println("create lapTop product type, id is: " + lapTopProductType.id)
 
-        def pantsProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.pants)
-        println("create pants product type, id is: " + pantsProductType.id)
+            def pantsProductType = RestClientFactory.post(UrlUtils.PRODUCTTYPEURL, ProductTypeDataFactory.pants)
+            println("create pants product type, id is: " + pantsProductType.id)
 
-        println("-------------------- end create product type -----------------------")
+            println("-------------------- end create product type -----------------------")
 
-        println("-------------------- create product  -----------------------")
-        def tShirt = ProductDataFactory.TShirt
-        tShirt['categories'][0]['id'] = clothesCategory.id
-        tShirt['productType']['id'] = clotheProductType.id
-        def tShirtProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, tShirt)
-        println("create product, id is: " + tShirtProduct.id)
+            println("-------------------- create product  -----------------------")
+            def tShirt = ProductDataFactory.TShirt
+            tShirt['categories'][0]['id'] = clothesCategory.id
+            tShirt['productType']['id'] = clotheProductType.id
+            def tShirtProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, tShirt)
+            println("create product, id is: " + tShirtProduct.id)
 
-        def msigt79 = ProductDataFactory.MSIGT79
-        msigt79['categories'][0]['id'] = lapTopCategory.id
-        msigt79['productType']['id'] = lapTopProductType.id
-        def msigt79Product = RestClientFactory.post(UrlUtils.PRODUCTURL, msigt79)
-        println("create product, id is: " + msigt79Product.id)
+            def msigt79 = ProductDataFactory.MSIGT79
+            msigt79['categories'][0]['id'] = lapTopCategory.id
+            msigt79['productType']['id'] = lapTopProductType.id
+            def msigt79Product = RestClientFactory.post(UrlUtils.PRODUCTURL, msigt79)
+            println("create product, id is: " + msigt79Product.id)
 
-        def iphone18 = ProductDataFactory.iphone18
-        iphone18['categories'][0]['id'] = smartPhoneCategory.id
-        iphone18['productType']['id'] = smartPhoneProductType.id
-        def iphone18Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone18)
-        println("create product, id is: " + iphone18Product.id)
+            def iphone18 = ProductDataFactory.iphone18
+            iphone18['categories'][0]['id'] = smartPhoneCategory.id
+            iphone18['productType']['id'] = smartPhoneProductType.id
+            def iphone18Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone18)
+            println("create product, id is: " + iphone18Product.id)
 
-        def iphone10 = ProductDataFactory.iphone10
-        iphone10['categories'][0]['id'] = smartPhoneCategory.id
-        iphone10['productType']['id'] = smartPhoneProductType.id
-        def iphone10Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone10)
-        println("create product, id is: " + iphone10Product.id)
+            def iphone10 = ProductDataFactory.iphone10
+            iphone10['categories'][0]['id'] = smartPhoneCategory.id
+            iphone10['productType']['id'] = smartPhoneProductType.id
+            def iphone10Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone10)
+            println("create product, id is: " + iphone10Product.id)
 
-        println("-------------------- end create product -----------------------")
+            println("-------------------- end create product -----------------------")
     }
 
     static def createInventory() {
