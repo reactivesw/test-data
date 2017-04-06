@@ -10,12 +10,8 @@ class ProductTypeDataFactory {
         return slurper.parse(new FileReader("src/main/resources/product_type/clothes.json"))
     }
 
-    public static def getComputer() {
-        return slurper.parse(new FileReader("src/main/resources/product_type/computer.json"))
-    }
-
     public static def getLapTop() {
-        return slurper.parse(new FileReader("src/main/resources/product_type/gaming_lap_top.json"))
+        return slurper.parse(new FileReader("src/main/resources/product_type/lap_top.json"))
     }
 
     public static def getPants() {

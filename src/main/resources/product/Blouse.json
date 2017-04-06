@@ -1,0 +1,159 @@
+{
+  "name": {
+    "en": "blouse"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "clothes"
+  },
+  "slug": "blouse",
+  "description": {
+    "en": "A test product named blouse"
+  },
+  "categories": [
+    {
+      "typeId": "category",
+      "id": "clothes"
+    }
+  ],
+  "masterVariant": {
+    "sku": "blouse-black-175",
+    "key": "blouse-black-175",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 2000
+        },
+        "country": "US"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61ots22Qw1L._UX679_.jpg",
+        "dimensions": {
+          "w": 2300,
+          "h": 2415
+        }
+      },
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61mRgflNw8L._UX679_.jpg",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61jGdmj%2BUDL._UX679_.jpg",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "size",
+        "value": 175
+      },
+      {
+        "name": "color",
+        "value": "black"
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "blouse-black-170",
+      "key": "blouse-black-170",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 2000
+          },
+          "country": "US"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/61jGdmj%2BUDL._UX679_.jpg",
+          "dimensions": {
+            "w": 2300,
+            "h": 2415
+          }
+        },
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/61UqCruEKzL._UX679_.jpg",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/61zFC3wZ3pL._UX679_.jpg",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 170
+        },
+        {
+          "name": "color",
+          "value": "black"
+        }
+      ]
+    },
+    {
+      "sku": "blouse-yellow-170",
+      "key": "blouse-yellow-170",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 2000
+          },
+          "country": "US"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/71MyvqELd4L._UX679_.jpg",
+          "dimensions": {
+            "w": 496,
+            "h": 500
+          }
+        },
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/71RUxBxFthL._UX679_.jpg",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/71%2BUGYjjlKL._UX679_.jpg",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 170
+        },
+        {
+          "name": "color",
+          "value": "yellow"
+        }
+      ]
+    }
+  ]
+}

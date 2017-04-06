@@ -7,8 +7,9 @@
         "name": "number"
       },
       "name": "size",
-      "lable": {
-        "en": "The size of the pants"
+      "label": {
+        "en": "size",
+        "zh_cn": "尺寸"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
@@ -21,20 +22,22 @@
       },
       "name": "color",
       "label": {
-        "en": "The color of the pants"
+        "en": "color",
+        "zh_cn": "颜色"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
       "isSearchable": true,
-      "inputHint": "SingleLine"
+      "iputHint": "SingleLine"
     },
     {
       "type": {
-        "name": "text"
+        "name": "number"
       },
-      "name": "origin",
+      "name": "waistline",
       "label": {
-        "en": "The place of origin of the pants"
+        "en": "waistline",
+        "zh_cn": "腰围"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",

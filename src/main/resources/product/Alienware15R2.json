@@ -1,0 +1,121 @@
+{
+  "name": {
+    "en": "Alienware15R2"
+  },
+  "productType": {
+    "typeId": "product-type",
+    "id": "lap_top"
+  },
+  "slug": "Alienware15R2",
+  "description": {
+    "en": "A test producet named GT78"
+  },
+  "categories": [
+    {
+      "typeId": "category",
+      "id": "lap_top"
+    }
+  ],
+  "masterVariant": {
+    "sku": "Alienware15R2-i7-8888HK-970m-17",
+    "key": "Alienware15R2-i7-8888HK-970m-17",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 189900
+        },
+        "country": "US"
+      }
+    ],
+    "images": [
+      {
+        "url": "",
+        "dimensions": {
+          "w": 4000,
+          "h": 1946
+        }
+      },
+      {
+        "url": "",
+        "dimensions": {
+          "w": 4000,
+          "h": 1946
+        }
+      },
+      {
+        "url": "",
+        "dimensions": {
+          "w": 4000,
+          "h": 2764
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "cpu",
+        "value": "i7-8888HK"
+      },
+      {
+        "name": "graphicCard",
+        "value": "970m"
+      },
+      {
+        "name": "size",
+        "value": 17.3
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "Alienware15R2-i7-8888HK-960m-15",
+      "key": "Alienware15R2-i7-8888HK-960m-15",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 2999424
+          },
+          "country": "US"
+        }
+      ],
+      "images": [
+        {
+          "url": "",
+          "dimensions": {
+            "w": 4000,
+            "h": 1946
+          }
+        },
+        {
+          "url": "",
+          "dimensions": {
+            "w": 4000,
+            "h": 1946
+          }
+        },
+        {
+          "url": "",
+          "dimensions": {
+            "w": 4000,
+            "h": 2764
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "cpu",
+          "value": "i7-8888HK"
+        },
+        {
+          "name": "graphicCard",
+          "value": "960m"
+        },
+        {
+          "name": "size",
+          "value": 15.6
+        }
+      ]
+    }
+  ]
+}

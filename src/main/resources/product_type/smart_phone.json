@@ -8,7 +8,7 @@
       },
       "name": "size",
       "label": {
-        "en": "the size of the screen",
+        "en": "size",
         "zh_cn": "屏幕尺寸"
       },
       "isRequired": true,
@@ -22,22 +22,8 @@
       },
       "name": "color",
       "label": {
-        "en": "the color of the phone",
+        "en": "color",
         "zh_cn": "颜色"
-      },
-      "isRequired": true,
-      "attributeConstraint": "CombinationUnique",
-      "isSearchable": true,
-      "inputHint": "SingleLine"
-    },
-    {
-      "type": {
-        "name": "text"
-      },
-      "name": "ram",
-      "label": {
-        "en": "the ram of the phone",
-        "zh_cn": "运行内存"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
@@ -50,8 +36,22 @@
       },
       "name": "rom",
       "label": {
-        "en": "the rom of the phone",
+        "en": "rom",
         "zh_cn": "机身存储"
+      },
+      "isRequired": true,
+      "attributeConstraint": "CombinationUnique",
+      "isSearchable": true,
+      "inputHint": "SingleLine"
+    },
+    {
+      "type": {
+        "name": "text"
+      },
+      "name": "ram",
+      "label": {
+        "en": "ram",
+        "zh_cn": "运行内存"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",

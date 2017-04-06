@@ -2,12 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adde6300-6fc3-4d70-9bcf-a33c88742733" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/category/desk_top.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/Levis_Jean.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/MECHREVO.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/MSI_GT78.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product_type/computer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/reactivesw/data/ProductDataRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/reactivesw/data/ProductTypeDataRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/inventory/inventoryEntry9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/product/MSI_GT79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/product/T-Shirt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/product/iPhone18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/product_type/gaming_lap_top.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/category/smart_phone.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/inventory/inventoryEntry9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/MSI_GT79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/T-Shirt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/iPhone10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product/iPhone18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product_type/gaming_lap_top.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/DataRunner.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/DataRunner.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/CategoryDataFactory.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/CategoryDataFactory.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/InventoryDataFactory.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/InventoryDataFactory.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductTypeDataFactory.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductTypeDataFactory.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/category/clothes.json" afterPath="$PROJECT_DIR$/src/main/resources/category/clothes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/category/lap_top.json" afterPath="$PROJECT_DIR$/src/main/resources/category/lap_top.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/category/pants.json" afterPath="$PROJECT_DIR$/src/main/resources/category/pants.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/product_type/clothes.json" afterPath="$PROJECT_DIR$/src/main/resources/product_type/clothes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/product_type/pants.json" afterPath="$PROJECT_DIR$/src/main/resources/product_type/pants.json" />
     </list>
     <ignored path="test-data.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +100,98 @@
     <favorites_list name="test-data" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataRunner.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/DataRunner.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smart_phone.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InventoryDataFactory.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/InventoryDataFactory.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductDataFactory.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Levis_Jean.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/product/Levis_Jean.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1758">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alienware15R2-i7-8888HK-960m-15.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/inventory/Alienware15R2-i7-8888HK-960m-15.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iPhone10.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/product/iPhone10.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3750">
+              <caret line="298" column="1" lean-forward="false" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blouse.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/product/Blouse.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alienware15R2.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/product/Alienware15R2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -361,19 +519,27 @@
         <option value="$PROJECT_DIR$/src/main/resources/product_type/gaming_lap_top.json" />
         <option value="$PROJECT_DIR$/src/main/resources/product/iPhone18.json" />
         <option value="$PROJECT_DIR$/src/main/resources/product/iPhone10.json" />
-        <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy" />
-        <option value="$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json" />
         <option value="$PROJECT_DIR$/src/main/resources/product/MSI_GT78.json" />
         <option value="$PROJECT_DIR$/src/main/resources/product/MECHREVO.json" />
         <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/ProductDataRunner.groovy" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/product_type/clothes.json" />
+        <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductTypeDataFactory.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/InventoryDataFactory.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/DataRunner.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/CategoryDataFactory.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/product/Levis_Jean.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -423,10 +589,6 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product_type" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -451,28 +613,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -570,6 +710,15 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../micro-service/admin/product-admin" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/product_type" />
+      <recent name="$PROJECT_DIR$/src/main/resources/product" />
+      <recent name="$PROJECT_DIR$/src/main/resources/inventory" />
+      <recent name="$PROJECT_DIR$/src/main/resources/category" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.DataRunner">
     <configuration default="false" name="DataRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -952,11 +1101,11 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987952" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5072289" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22409639" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22409639" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1055,25 +1204,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/product/Levis_Jean.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/gaming_lap_top.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,25 +1218,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/product/iPhone10.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="298" column="1" lean-forward="false" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/product/iPhone18.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-555">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1153,14 +1272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/ProductTypeDataRunner.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/ProductDataRunner.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1169,10 +1280,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/ProductTypeDataRunner.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/category/clothes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/clothes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/pants.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/lap_top.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductTypeDataFactory.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/InventoryDataFactory.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/CategoryDataFactory.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/util/ProductDataFactory.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product/Blouse.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product/Alienware15R2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/io/reactivesw/data/DataRunner.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product_type/smart_phone.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product/iPhone10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="298" column="1" lean-forward="false" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/inventory/Alienware15R2-i7-8888HK-960m-15.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/product/Levis_Jean.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1758">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>

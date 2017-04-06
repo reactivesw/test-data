@@ -10,10 +10,6 @@ class CategoryDataFactory {
         return slurper.parse(new FileReader("src/main/resources/category/clothes.json"))
     }
 
-    public static def getDeskTop() {
-        return slurper.parse(new FileReader("src/main/resources/category/desk_top.json"))
-    }
-
     public static def getLapTop() {
         return slurper.parse(new FileReader("src/main/resources/category/lap_top.json"))
     }

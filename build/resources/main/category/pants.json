@@ -1,9 +1,10 @@
 {
-    "name": {
-        "en": "pants"
-    },
-    "description": {
-        "en": "a test category named as pants"
-    },
-    "slug": "pants"
+  "name": {
+    "en": "pants",
+    "zh_cn": "裤子"
+  },
+  "description": {
+    "en": "category named as pants"
+  },
+  "slug": "pants"
 }

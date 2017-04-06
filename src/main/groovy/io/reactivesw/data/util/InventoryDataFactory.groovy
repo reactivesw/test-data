@@ -6,103 +6,55 @@ package io.reactivesw.data.util
 class InventoryDataFactory {
     static def slurper = new groovy.json.JsonSlurper()
 
-    public static def getInventoryEntry1() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry1.json"))
+    public static def getAlienware15R2i78888HK960m15() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/Alienware15R2-i7-8888HK-960m-15.json"))
     }
 
-    public static def getInventoryEntry2() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry2.json"))
+    public static def getAlienware15R2i78888HK970m17() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/Alienware15R2-i7-8888HK-970m-17.json"))
     }
 
-    public static def getInventoryEntry3() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry3.json"))
+    public static def getBlouseBlack170() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/blouse-black-170.json"))
     }
 
-    public static def getInventoryEntry4() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry4.json"))
+    public static def getBlouseBlack175() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/blouse-black-175.json"))
     }
 
-    public static def getInventoryEntry5() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry5.json"))
+    public static def getBlouseYellow170() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/blouse-yellow-170.json"))
     }
 
-    public static def getInventoryEntry6() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry6.json"))
+    public static def getiPhone1046black2G32G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-black-2G-32G.json"))
     }
 
-    public static def getInventoryEntry7() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry7.json"))
+    public static def getiPhone1046black2G64G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-black-2G-64G.json"))
     }
 
-    public static def getInventoryEntry8() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry8.json"))
+    public static def getiPhone1046white2G32G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-white-2G-32G.json"))
     }
 
-    public static def getInventoryEntry9() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry9.json"))
+    public static def getiPhone1046white2G64G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-white-2G-64G.json"))
     }
 
-    public static def getInventoryEntry10() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry10.json"))
+    public static def getiPhone1050gold2G128G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-5_0-gold-2G-128G.json"))
     }
 
-    public static def getInventoryEntry11() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry11.json"))
+    public static def getJean170light16() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/jean-170-light-16.json"))
     }
 
-    public static def getInventoryEntry12() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry12.json"))
+    public static def getJean170mediumblack16() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/jean-170-medium_black-16.json"))
     }
 
-    public static def getInventoryEntry13() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry13.json"))
-    }
-
-    public static def getInventoryEntry14() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry14.json"))
-    }
-
-    public static def getInventoryEntry15() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry15.json"))
-    }
-
-    public static def getInventoryEntry16() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry16.json"))
-    }
-
-    public static def getInventoryEntry17() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry17.json"))
-    }
-
-    public static def getInventoryEntry18() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry18.json"))
-    }
-
-    public static def getInventoryEntry19() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry19.json"))
-    }
-
-    public static def getInventoryEntry20() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry20.json"))
-    }
-
-    public static def getInventoryEntry21() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry21.json"))
-    }
-
-    public static def getInventoryEntry22() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry22.json"))
-    }
-
-    public static def getInventoryEntry23() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry23.json"))
-    }
-
-    public static def getInventoryEntry24() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry24.json"))
-    }
-
-    public static def getInventoryEntry25() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/inventoryEntry25.json"))
+    public static def getJean175Dark16() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/jean-175-Dark-16.json"))
     }
 }

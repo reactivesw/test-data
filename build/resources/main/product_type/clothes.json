@@ -1,29 +1,34 @@
 {
-    "name": "clothes",
-    "description": "the common attributes for clothes",
-    "attributes": [{
-        "type": {
-            "name": "number"
-        },
-        "name": "size",
-        "lable": {
-            "en": "The size of the clothes"
-        },
-        "isRequired": true,
-        "attributeConstraint": "CombinationUnique",
-        "isSearchable": true,
-        "inputHint": "SingleLine"
-    }, {
-        "type": {
-            "name": "text"
-        },
-        "name": "color",
-        "label": {
-            "en": "The color of the clothes"
-        },
-        "isRequired": true,
-        "attributeConstraint": "CombinationUnique",
-        "isSearchable": true,
-        "inputHint": "SingleLine"
-    }]
+  "name": "clothes",
+  "description": "the common attributes for clothes",
+  "attributes": [
+    {
+      "type": {
+        "name": "number"
+      },
+      "name": "size",
+      "label": {
+        "en": "size",
+        "zh_cn": "尺寸"
+      },
+      "isRequired": true,
+      "attributeConstraint": "CombinationUnique",
+      "isSearchable": true,
+      "inputHint": "SingleLine"
+    },
+    {
+      "type": {
+        "name": "text"
+      },
+      "name": "color",
+      "label": {
+        "en": "color",
+        "zh_cn": "颜色"
+      },
+      "isRequired": true,
+      "attributeConstraint": "CombinationUnique",
+      "isSearchable": true,
+      "inputHint": "SingleLine"
+    }
+  ]
 }

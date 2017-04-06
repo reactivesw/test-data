@@ -1,9 +1,10 @@
 {
-    "name": {
-        "en": "clothes"
-    },
-    "description": {
-        "en": "a test category named as clothes"
-    },
-    "slug": "clothes"
+  "name": {
+    "en": "clothes",
+    "zh_cn": "衣服"
+  },
+  "description": {
+    "en": "category named as clothes"
+  },
+  "slug": "clothes"
 }

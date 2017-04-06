@@ -1,6 +1,7 @@
 {
-  "name": "pants",
-  "description": "the common attributes for pants",
+  "name": "lap_top",
+  "description": "the common attributes for gaming lap top",
+  "key": "lap_top",
   "attributes": [
     {
       "type": {
@@ -9,7 +10,7 @@
       "name": "size",
       "label": {
         "en": "size",
-        "zh_cn": "尺寸"
+        "zh_cn": "屏幕尺寸"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
@@ -20,24 +21,24 @@
       "type": {
         "name": "text"
       },
-      "name": "color",
+      "name": "cpu",
       "label": {
-        "en": "color",
-        "zh_cn": "颜色"
+        "en": "cpu",
+        "zh_cn": "处理器"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
       "isSearchable": true,
-      "iputHint": "SingleLine"
+      "inputHint": "SingleLine"
     },
     {
       "type": {
-        "name": "number"
+        "name": "text"
       },
-      "name": "waistline",
+      "name": "graphicCard",
       "label": {
-        "en": "waistline",
-        "zh_cn": "腰围"
+        "en": "graphicCard",
+        "zh_cn": "显卡"
       },
       "isRequired": true,
       "attributeConstraint": "CombinationUnique",
