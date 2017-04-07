@@ -1,0 +1,432 @@
+{
+  "key": "one-plus-3t",
+  "name": {
+    "en": "one-plus-3t"
+  },
+  "productType": {
+    "id": "smart_phone",
+    "typeId": "product-type"
+  },
+  "slug": "one-plus-3t",
+  "description": {
+    "en": "OnePlus creates beautifully designed products with premium build quality & brings the best technology to users around the world"
+  },
+  "categories": [
+    {
+      "typeId": "category",
+      "id": "smart_phone"
+    }
+  ],
+  "masterVariant": {
+    "sku": "one-plus-3t-4_6-black-2G-32G",
+    "key": "one-plus-3t-4_6-black-2G-32G",
+    "prices": [
+      {
+        "value": {
+          "currencyCode": "USD",
+          "centAmount": 39900
+        },
+        "country": "US"
+      },
+      {
+        "value": {
+          "currencyCode": "CNY",
+          "centAmount": 269900
+        },
+        "country": "CN"
+      }
+    ],
+    "images": [
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2hZb2NrTmJfWkU",
+        "dimensions": {
+          "w": 800,
+          "h": 600
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeVpiMFJvM1ZUU3M",
+        "dimensions": {
+          "w": 956,
+          "h": 700
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTId0hKcVJLX1FBMjQ",
+        "dimensions": {
+          "w": 956,
+          "h": 700
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTINlFnbjlZOVI1b28",
+        "dimensions": {
+          "w": 956,
+          "h": 700
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOFFkeEc3VUhyblE",
+        "dimensions": {
+          "w": 956,
+          "h": 700
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeG02b2JGc0htRW8",
+        "dimensions": {
+          "w": 956,
+          "h": 700
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "name": "size",
+        "value": 4.6
+      },
+      {
+        "name": "color",
+        "value": "black"
+      },
+      {
+        "name": "ram",
+        "value": "2GB"
+      },
+      {
+        "name": "rom",
+        "value": "32GB"
+      }
+    ]
+  },
+  "variants": [
+    {
+      "sku": "one-plus-3t-4_6-black-2G-64G",
+      "key": "one-plus-3t-4_6-black-2G-64G",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 49900
+          },
+          "country": "US"
+        },
+        {
+          "value": {
+            "currencyCode": "CNY",
+            "centAmount": 349900
+          },
+          "country": "CN"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2hZb2NrTmJfWkU",
+          "dimensions": {
+            "w": 800,
+            "h": 600
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeVpiMFJvM1ZUU3M",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTId0hKcVJLX1FBMjQ",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTINlFnbjlZOVI1b28",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOFFkeEc3VUhyblE",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeG02b2JGc0htRW8",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 4.6
+        },
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "ram",
+          "value": "2GB"
+        },
+        {
+          "name": "rom",
+          "value": "64GB"
+        }
+      ]
+    },
+    {
+      "sku": "one-plus-3t-4_6-white-2G-32G",
+      "key": "one-plus-3t-4_6-white-2G-32G",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 39900
+          },
+          "country": "US"
+        },
+        {
+          "value": {
+            "currencyCode": "CNY",
+            "centAmount": 269900
+          },
+          "country": "CN"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2hZb2NrTmJfWkU",
+          "dimensions": {
+            "w": 759,
+            "h": 422
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeVpiMFJvM1ZUU3M",
+          "dimensions": {
+            "w": 800,
+            "h": 450
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTId0hKcVJLX1FBMjQ",
+          "dimensions": {
+            "w": 800,
+            "h": 450
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTINlFnbjlZOVI1b28",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOFFkeEc3VUhyblE",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeG02b2JGc0htRW8",
+          "dimensions": {
+            "w": 956,
+            "h": 700
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 4.6
+        },
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "ram",
+          "value": "2GB"
+        },
+        {
+          "name": "rom",
+          "value": "32GB"
+        }
+      ]
+    },
+    {
+      "sku": "one-plus-3t-4_6-white-2G-64G",
+      "key": "one-plus-3t-4_6-white-2G-64G",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 49900
+          },
+          "country": "US"
+        },
+        {
+          "value": {
+            "currencyCode": "CNY",
+            "centAmount": 349900
+          },
+          "country": "CN"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2hZb2NrTmJfWkU",
+          "dimensions": {
+            "w": 759,
+            "h": 422
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeVpiMFJvM1ZUU3M",
+          "dimensions": {
+            "w": 800,
+            "h": 450
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTId0hKcVJLX1FBMjQ",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTINlFnbjlZOVI1b28",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOFFkeEc3VUhyblE",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeG02b2JGc0htRW8",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 4.6
+        },
+        {
+          "name": "color",
+          "value": "white"
+        },
+        {
+          "name": "ram",
+          "value": "2GB"
+        },
+        {
+          "name": "rom",
+          "value": "64GB"
+        }
+      ]
+    },
+    {
+      "sku": "one-plus-3t-5_0-gold-2G-128G",
+      "key": "one-plus-3t-5_0-gold-2G-128G",
+      "prices": [
+        {
+          "value": {
+            "currencyCode": "USD",
+            "centAmount": 59900
+          },
+          "country": "US"
+        },
+        {
+          "value": {
+            "currencyCode": "CNY",
+            "centAmount": 439900
+          },
+          "country": "CN"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2hZb2NrTmJfWkU",
+          "dimensions": {
+            "w": 800,
+            "h": 659
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeVpiMFJvM1ZUU3M",
+          "dimensions": {
+            "w": 2000,
+            "h": 1536
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTId0hKcVJLX1FBMjQ",
+          "dimensions": {
+            "w": 2000,
+            "h": 1536
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTINlFnbjlZOVI1b28",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOFFkeEc3VUhyblE",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIeG02b2JGc0htRW8",
+          "dimensions": {
+            "w": 1200,
+            "h": 630
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "size",
+          "value": 5.0
+        },
+        {
+          "name": "color",
+          "value": "gold"
+        },
+        {
+          "name": "ram",
+          "value": "2GB"
+        },
+        {
+          "name": "rom",
+          "value": "128GB"
+        }
+      ]
+    }
+  ]
+}

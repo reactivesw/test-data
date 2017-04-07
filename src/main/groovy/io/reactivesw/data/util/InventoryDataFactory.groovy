@@ -26,24 +26,24 @@ class InventoryDataFactory {
         return slurper.parse(new FileReader("src/main/resources/inventory/blouse-yellow-170.json"))
     }
 
-    public static def getiPhone1046black2G32G() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-black-2G-32G.json"))
+    public static def getOneplus3t46black2G32G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/one-plus-3t-4_6-black-2G-32G.json"))
     }
 
-    public static def getiPhone1046black2G64G() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-black-2G-64G.json"))
+    public static def getOneplus3t46black2G64G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/one-plus-3t-4_6-black-2G-64G.json"))
     }
 
-    public static def getiPhone1046white2G32G() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-white-2G-32G.json"))
+    public static def getOneplus3t46white2G32G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/one-plus-3t-4_6-white-2G-32G.json"))
     }
 
-    public static def getiPhone1046white2G64G() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-4_6-white-2G-64G.json"))
+    public static def getOneplus3t46white2G64G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/one-plus-3t-4_6-white-2G-64G.json"))
     }
 
-    public static def getiPhone1050gold2G128G() {
-        return slurper.parse(new FileReader("src/main/resources/inventory/iPhone10-5_0-gold-2G-128G.json"))
+    public static def getOneplus3t50gold2G128G() {
+        return slurper.parse(new FileReader("src/main/resources/inventory/one-plus-3t-5_0-gold-2G-128G.json"))
     }
 
     public static def getJean170light16() {

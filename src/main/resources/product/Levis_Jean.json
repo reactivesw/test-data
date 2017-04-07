@@ -6,9 +6,9 @@
     "typeId": "product-type",
     "id": "pants"
   },
-  "slug": "LeviJean",
+  "slug": "LevisJean",
   "description": {
-    "en": "A test product named Levi's Jean"
+    "en": "Levis'Jean--Our top styles to buy now and wear now."
   },
   "categories": [
     {
@@ -30,14 +30,42 @@
     ],
     "images": [
       {
-        "url": "https://images-na.ssl-images-amazon.com/images/I/915tXKs2g7L._UY879_.jpg",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2Y5OWNpX2wzTHc",
         "dimensions": {
           "w": 2300,
           "h": 2415
         }
       },
       {
-        "url": "https://images-na.ssl-images-amazon.com/images/I/915tXKs2g7L._UY879_.jpg",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTITlhuUk40eEF4Zm8",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbEZWREVrc05FdUk",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISzBoeXFuWFlhckk",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIM3pvOXRXR3pWWmM",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIXzdYUW1tTkl1YTg",
         "dimensions": {
           "w": 1500,
           "h": 1467
@@ -74,14 +102,42 @@
       ],
       "images": [
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/91K1Fxj6%2BQL._UY879_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2Y5OWNpX2wzTHc",
           "dimensions": {
             "w": 2300,
             "h": 2415
           }
         },
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/91K1Fxj6%2BQL._UY879_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTITlhuUk40eEF4Zm8",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbEZWREVrc05FdUk",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISzBoeXFuWFlhckk",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIM3pvOXRXR3pWWmM",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIXzdYUW1tTkl1YTg",
           "dimensions": {
             "w": 1500,
             "h": 1467
@@ -117,10 +173,45 @@
       ],
       "images": [
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/91ZVS8hiNvL._UY879_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIV2Y5OWNpX2wzTHc",
           "dimensions": {
             "w": 496,
             "h": 500
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTITlhuUk40eEF4Zm8",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbEZWREVrc05FdUk",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISzBoeXFuWFlhckk",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIM3pvOXRXR3pWWmM",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIXzdYUW1tTkl1YTg",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
           }
         }
       ],

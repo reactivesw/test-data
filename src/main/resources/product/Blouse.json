@@ -8,7 +8,7 @@
   },
   "slug": "blouse",
   "description": {
-    "en": "A test product named blouse"
+    "en": "A blouse is a loose-fitting upper garment that was formerly worn by workmen, peasants, artists, women, and children"
   },
   "categories": [
     {
@@ -30,21 +30,42 @@
     ],
     "images": [
       {
-        "url": "https://images-na.ssl-images-amazon.com/images/I/61ots22Qw1L._UX679_.jpg",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbFJONmQxQkFidFE",
         "dimensions": {
           "w": 2300,
           "h": 2415
         }
       },
       {
-        "url": "https://images-na.ssl-images-amazon.com/images/I/61mRgflNw8L._UX679_.jpg",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbVlCR1l2OHNOMGs",
         "dimensions": {
           "w": 1500,
           "h": 1467
         }
       },
       {
-        "url": "https://images-na.ssl-images-amazon.com/images/I/61jGdmj%2BUDL._UX679_.jpg",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIaGlIVUlIeExkZ1U",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISVNtcWR4VHhUSk0",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIQ1pET1hCaHlqVWc",
+        "dimensions": {
+          "w": 1500,
+          "h": 1467
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIdWlELVJEWWcybHM",
         "dimensions": {
           "w": 1500,
           "h": 1467
@@ -77,21 +98,42 @@
       ],
       "images": [
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/61jGdmj%2BUDL._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbFJONmQxQkFidFE",
           "dimensions": {
             "w": 2300,
             "h": 2415
           }
         },
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/61UqCruEKzL._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbVlCR1l2OHNOMGs",
           "dimensions": {
             "w": 1500,
             "h": 1467
           }
         },
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/61zFC3wZ3pL._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIaGlIVUlIeExkZ1U",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISVNtcWR4VHhUSk0",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIQ1pET1hCaHlqVWc",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIdWlELVJEWWcybHM",
           "dimensions": {
             "w": 1500,
             "h": 1467
@@ -123,21 +165,42 @@
       ],
       "images": [
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/71MyvqELd4L._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbFJONmQxQkFidFE",
           "dimensions": {
             "w": 496,
             "h": 500
           }
         },
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/71RUxBxFthL._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIbVlCR1l2OHNOMGs",
           "dimensions": {
             "w": 1500,
             "h": 1467
           }
         },
         {
-          "url": "https://images-na.ssl-images-amazon.com/images/I/71%2BUGYjjlKL._UX679_.jpg",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIaGlIVUlIeExkZ1U",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISVNtcWR4VHhUSk0",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIQ1pET1hCaHlqVWc",
+          "dimensions": {
+            "w": 1500,
+            "h": 1467
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIdWlELVJEWWcybHM",
           "dimensions": {
             "w": 1500,
             "h": 1467

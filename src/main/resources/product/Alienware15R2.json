@@ -8,7 +8,7 @@
   },
   "slug": "Alienware15R2",
   "description": {
-    "en": "A test producet named GT78"
+    "en": "Alienware, with its industry leading innovation, manufactures the best gaming PCs that provide their users with immersive and exhilarating gaming experience."
   },
   "categories": [
     {
@@ -30,21 +30,42 @@
     ],
     "images": [
       {
-        "url": "",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIMXJ1d3JCcWVrOWc",
         "dimensions": {
           "w": 4000,
           "h": 1946
         }
       },
       {
-        "url": "",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOXR1YllqV0xLdG8",
         "dimensions": {
           "w": 4000,
           "h": 1946
         }
       },
       {
-        "url": "",
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIME80YlB0RkNoM3c",
+        "dimensions": {
+          "w": 4000,
+          "h": 2764
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISHZ5cEE3cjRLUDA",
+        "dimensions": {
+          "w": 4000,
+          "h": 2764
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTITGtNVjI5bGxFa00",
+        "dimensions": {
+          "w": 4000,
+          "h": 2764
+        }
+      },
+      {
+        "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIY2xFcER5TmVvck0",
         "dimensions": {
           "w": 4000,
           "h": 2764
@@ -81,21 +102,42 @@
       ],
       "images": [
         {
-          "url": "",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIMXJ1d3JCcWVrOWc",
           "dimensions": {
             "w": 4000,
             "h": 1946
           }
         },
         {
-          "url": "",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIOXR1YllqV0xLdG8",
           "dimensions": {
             "w": 4000,
             "h": 1946
           }
         },
         {
-          "url": "",
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIME80YlB0RkNoM3c",
+          "dimensions": {
+            "w": 4000,
+            "h": 2764
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTISHZ5cEE3cjRLUDA",
+          "dimensions": {
+            "w": 4000,
+            "h": 2764
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTITGtNVjI5bGxFa00",
+          "dimensions": {
+            "w": 4000,
+            "h": 2764
+          }
+        },
+        {
+          "url": "http://drive.google.com/uc?export=view&id=0B8k8-o55viTIY2xFcER5TmVvck0",
           "dimensions": {
             "w": 4000,
             "h": 2764

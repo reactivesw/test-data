@@ -10,8 +10,8 @@ class ProductDataFactory {
         return slurper.parse(new FileReader("src/main/resources/product/Blouse.json"))
     }
 
-    public static def getIphone10() {
-        return slurper.parse(new FileReader("src/main/resources/product/iPhone10.json"))
+    public static def getOnePlus3T() {
+        return slurper.parse(new FileReader("src/main/resources/product/OnePlus3T.json"))
     }
 
     public static def getAlienware15R2() {

@@ -61,11 +61,11 @@ class DataRunner {
         def alienware15R2Product = RestClientFactory.post(UrlUtils.PRODUCTURL, alienware15R2)
         println("create alienware15R2 product, id is: " + alienware15R2Product.id)
 
-        def iphone10 = ProductDataFactory.iphone10
-        iphone10['categories'][0]['id'] = smartPhoneCategory.id
-        iphone10['productType']['id'] = smartPhoneProductType.id
-        def iphone10Product = RestClientFactory.post(UrlUtils.PRODUCTURL, iphone10)
-        println("create product, id is: " + iphone10Product.id)
+        def onePlus3T = ProductDataFactory.onePlus3T
+        onePlus3T['categories'][0]['id'] = smartPhoneCategory.id
+        onePlus3T['productType']['id'] = smartPhoneProductType.id
+        def onePlus3TProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, onePlus3T)
+        println("create iphone10 product, id is: " + onePlus3TProduct.id)
 
         println("-------------------- end create product -----------------------")
     }
@@ -89,19 +89,19 @@ class DataRunner {
         def inventory5 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.blouseYellow170)
         println("create inventory, id is: " + inventory5.id)
 
-        def inventory6 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.iPhone1046black2G32G)
+        def inventory6 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.oneplus3t46black2G32G)
         println("create inventory, id is: " + inventory6.id)
 
-        def inventory7 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.iPhone1046black2G64G)
+        def inventory7 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.oneplus3t46black2G64G)
         println("create inventory, id is: " + inventory7.id)
 
-        def inventory8 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.iPhone1046white2G32G)
+        def inventory8 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.oneplus3t46white2G32G)
         println("create inventory, id is: " + inventory8.id)
 
-        def inventory9 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.iPhone1046white2G64G)
+        def inventory9 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.oneplus3t46white2G64G)
         println("create inventory, id is: " + inventory9.id)
 
-        def inventory10 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.iPhone1050gold2G128G)
+        def inventory10 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.oneplus3t50gold2G128G)
         println("create inventory, id is: " + inventory10.id)
 
         def inventory11 = RestClientFactory.post(UrlUtils.INVENTORYURL, InventoryDataFactory.jean170light16)
