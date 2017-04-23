@@ -7,7 +7,7 @@ class UrlUtils {
     /**
      * api gateway url.
      */
-    public static String ROOTURL = "http://localhost:8889/"
+    public static String ROOTURL = "http://35.184.19.183/"
 
     /**
      * category url.
@@ -22,7 +22,7 @@ class UrlUtils {
     /**
      * product url.
      */
-    public static String PRODUCTURL = ROOTURL + "products/"
+    public static String PRODUCTURL = "http://35.184.1.170/"
 
     /**
      * inventory url.

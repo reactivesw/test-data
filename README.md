@@ -1,17 +1,19 @@
 ## How to Run
 
-### 1. change root url
+### 0. Introduction
+
+This project uses following technology:
+
+* gradle 3.1
+* groovy 2.4
+* http-builder 0.7
+
+### 1. Change root url
 
 open `UrlUtils.java`, edit field `ROOTURL`, set it to api-gateway url.
 
-### 2. compile project
+### 2. Run project
 
 ```shell
-gradle clean build
-```
-
-### 3. run project
-
-```shell
-java -jar build/libs/test-data.jar
+gradle addData -q
 ```
