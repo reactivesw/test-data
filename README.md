@@ -10,7 +10,7 @@ This project uses following technology:
 
 ### 1. Change root url
 
-open `UrlUtils.java`, edit field `ROOTURL`, set it to api-gateway url.
+open `UrlUtils.groovy`, edit field `ROOTURL`, set it to api-gateway url.
 
 ### 2. Run project
 
