@@ -1,4 +1,8 @@
 package io.reactivesw.data
 
-CatalogRunner.addData()
-InventoryRunner.addData()
+public class DataRunner {
+    public static void main(String[] args) {
+        CatalogRunner.addData()
+        InventoryRunner.addData()
+    }
+}
