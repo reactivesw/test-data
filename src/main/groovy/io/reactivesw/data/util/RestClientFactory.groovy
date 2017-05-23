@@ -21,4 +21,10 @@ class RestClientFactory {
         def response = client.post(body: body)
         return response.data
     }
+
+    public static def put(String url, def body) {
+        def client = getJsonClient(url)
+        def response = client.put(body: body)
+        return response.data
+    }
 }

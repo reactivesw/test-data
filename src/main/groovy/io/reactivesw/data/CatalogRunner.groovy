@@ -38,28 +38,35 @@ public def static addData() {
     println("-------------------- end create product type -----------------------")
 
     println("-------------------- create product  -----------------------")
+
+    def publishAction = ProductDataFactory.publishAction
+
     def blouse = ProductDataFactory.blouse
     blouse['categories'][0]['id'] = clothesCategory.id
     blouse['productType']['id'] = clotheProductType.id
     def blouseProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, blouse)
+    RestClientFactory.put(UrlUtils.PRODUCTURL + blouseProduct.id, publishAction)
     println("create blouse product, id is: " + blouseProduct.id)
 
     def levisJean = ProductDataFactory.levisJean
     levisJean['categories'][0]['id'] = pantsCategory.id
     levisJean['productType']['id'] = pantsProductType.id
     def levisJeanProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, levisJean)
+    RestClientFactory.put(UrlUtils.PRODUCTURL + levisJeanProduct.id, publishAction)
     println("create levisJean product, id is: " + levisJeanProduct.id)
 
     def alienware15R2 = ProductDataFactory.alienware15R2
     alienware15R2['categories'][0]['id'] = lapTopCategory.id
     alienware15R2['productType']['id'] = lapTopProductType.id
     def alienware15R2Product = RestClientFactory.post(UrlUtils.PRODUCTURL, alienware15R2)
+    RestClientFactory.put(UrlUtils.PRODUCTURL + alienware15R2Product.id, publishAction)
     println("create alienware15R2 product, id is: " + alienware15R2Product.id)
 
     def onePlus3T = ProductDataFactory.onePlus3T
     onePlus3T['categories'][0]['id'] = smartPhoneCategory.id
     onePlus3T['productType']['id'] = smartPhoneProductType.id
     def onePlus3TProduct = RestClientFactory.post(UrlUtils.PRODUCTURL, onePlus3T)
+    RestClientFactory.put(UrlUtils.PRODUCTURL + onePlus3TProduct.id, publishAction)
     println("create iphone10 product, id is: " + onePlus3TProduct.id)
 
     println("-------------------- end create product -----------------------")

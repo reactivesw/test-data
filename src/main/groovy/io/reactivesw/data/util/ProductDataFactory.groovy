@@ -21,4 +21,8 @@ class ProductDataFactory {
     public static def getLevisJean() {
         return slurper.parse(new FileReader("src/main/resources/product/Levis_Jean.json"))
     }
+
+    public static def getPublishAction() {
+        return slurper.parse(new FileReader("src/main/resources/product/PublishAction.json"))
+    }
 }
